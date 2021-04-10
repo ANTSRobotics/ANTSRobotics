@@ -19,13 +19,13 @@ html, body, .cover {
 	text-align: middle;
 	color:white;
 	display: table-cell;
-	vertical-align: right;
+	vertical-align: middle;
 }
 
 .cover-text h1 {
 	font-size: 60px;
 	color:burlywood;
-	margin: 0;
+	margin: 10;
 	letter-spacing: -4px;
 }
 
