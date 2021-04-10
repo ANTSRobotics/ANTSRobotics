@@ -25,7 +25,7 @@ html, body, .cover {
 .cover-text h1 {
 	font-size: 60px;
 	color:burlywood;
-	margin: 10;
+	margin: 0;
 	letter-spacing: -4px;
 }
 
