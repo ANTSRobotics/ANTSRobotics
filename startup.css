@@ -16,10 +16,12 @@ html, body, .cover {
 }
 
 .cover-text {
-	text-align: right;
+	text-align: center;
 	color:white;
 	display: table-cell;
 	vertical-align: middle;
+	align-content: right;
+
 }
 
 .cover-text h1 {
