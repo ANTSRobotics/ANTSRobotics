@@ -6,7 +6,7 @@ html, body, .cover {
 
 .cover {
 /* 	background: url('img/couchfriends.jpg') top left no-repeat; */
-	background: url('img/LED1.png') top left no-repeat;
+	background: url('img/LED1.jpg') top left no-repeat;
 	background-size: cover;
 	display: table;
 	width: 100%;
