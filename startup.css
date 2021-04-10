@@ -16,7 +16,7 @@ html, body, .cover {
 }
 
 .cover-text {
-	text-align: center;
+	text-align: right;
 	color:white;
 	display: table-cell;
 	vertical-align: middle;
